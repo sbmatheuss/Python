@@ -1,1 +1,1 @@
-SELECT VERSION;
+SELECT * FROM new_db.new_alunos WHERE idade >= 25;
